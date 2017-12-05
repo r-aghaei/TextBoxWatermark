@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBoxWatermark", "TextBoxWatermark\TextBoxWatermark.csproj", "{BCE99DFC-18AA-4FC9-AC18-CF9B25ECB148}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{97A64D38-512F-4DD7-A80F-9471DD15E063}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+		..\watermark.png = ..\watermark.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
